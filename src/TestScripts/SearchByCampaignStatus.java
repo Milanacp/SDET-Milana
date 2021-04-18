@@ -29,7 +29,7 @@ public class SearchByCampaignStatus extends Base {
 		
 		cp.getSearhBtn().click();
 		
-		 
+		    
 	}
 
 }

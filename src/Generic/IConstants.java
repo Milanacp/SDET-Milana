@@ -6,6 +6,7 @@ public interface IConstants {
 	static String excelpath = "../VTiger Campaign/src/config/TestData.xlsx";
 	int implicitWait=10;
 	int explicitWait=20;
-
+  
 	
 }
+   

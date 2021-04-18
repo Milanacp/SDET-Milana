@@ -23,9 +23,7 @@ public class LoginPage {
     @FindBy(id="submitButton")
     private WebElement loginButon;
     
-
-	    
-    
+         
 
 	public WebElement getUsernameEdt() {        
 		return usernameEdt1;

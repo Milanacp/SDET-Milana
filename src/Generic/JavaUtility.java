@@ -16,7 +16,7 @@ public class JavaUtility {
 		int rand = r.nextInt(10000);
 		return rand;
 	}
-	
+	    
 	/**
 	 * @author Milana
 	 * Generate current system date

@@ -25,7 +25,7 @@ public class HomePage {
 	public WebElement getCampaignlink() {
 		return campaignlink;
 	}
-	
+	  
 	@FindBy(xpath = "//img[contains(@src,'user.PNG')]")
 	private WebElement administrationImg;
 

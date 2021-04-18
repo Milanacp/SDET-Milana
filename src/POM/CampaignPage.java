@@ -34,6 +34,6 @@ public class CampaignPage {
 	public WebElement getSearhBtn() {
 		return searchBtn;
 		
-	}
+	}  
 	
 }

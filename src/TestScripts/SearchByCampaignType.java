@@ -30,7 +30,7 @@ public class SearchByCampaignType extends Base {
 		
 		cp.getSearhBtn().click();
 		
-		 
+		   
 	}
 
 }

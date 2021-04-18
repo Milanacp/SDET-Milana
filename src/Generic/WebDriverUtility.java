@@ -19,7 +19,7 @@ public class WebDriverUtility {
 	public void maximizewindow(WebDriver driver) 
 	{
 		driver.manage().window().maximize();
-	}
+	}   
 
 	/**
 	 * Wait until Page is loaded
